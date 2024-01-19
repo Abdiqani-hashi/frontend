@@ -18,4 +18,16 @@
 * main
 * section
 * footer
+
+>So far i covered 
+
+* Core Html tags
+* Nesting
+* Buttons
+* input field
+* Anchor tags
+* Document structure
+* Lists
+  
+
   
