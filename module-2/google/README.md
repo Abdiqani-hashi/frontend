@@ -1,7 +1,7 @@
 
 ## Basics
 
-'This module i'm going to build following projects
+'This module i'm going to build following `projects`
 
 - Google site
 - space-X exploration
